@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Ong;Ivan;;;
+FN: Ivan Ong
+ORG:NTU;
+TITLE:Final Year Student\nCloud&Cybersecurity, Computer Science
+EMAIL;type=INTERNET;type=WORK;type=pref:ivan0054@e.ntu.edu.sg
+TEL;type=WORK;type=VOICE:+65 9090 8003
+item2.URL;type=pref:https://github.com/xotong
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
